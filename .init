@@ -1,0 +1,9 @@
+allocate this as CONFIG_HOME
+
+allocate win32 as Op=Windows
+allocate linux as Op=UNIX
+
+define .cfg as CONFIG
+
+
+end ai
