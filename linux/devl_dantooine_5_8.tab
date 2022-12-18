@@ -1,0 +1,2 @@
+objid	container	server_template_crc	cell_index	px	py	pz	qw	qx	qy	qz	scripts	objvars
+13761195796	0	object/tangible/terminal/terminal_mission.iff	0	1932.2025	5.71268	6839.7715	0.0	1.0	0.0	0.0	script.planet_map.map_loc_attach:script.planet_map.map_loc:script.systems.missions.base.mission_terminal	buildout_utility.write|0|1|$|

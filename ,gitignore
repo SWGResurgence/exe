@@ -1,5 +1,4 @@
 /win32/*
-/linux/bin/
 *.log
 *.tmp
 *.pid
