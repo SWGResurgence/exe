@@ -1,5 +1,5 @@
-linux/auth.cfg
-linux/nodes.cfg
-linux/auth.cfg
-linux/auth.cfg
-linux/server/zones.cfg
+/win32/*
+/linux/bin/
+*.log
+*.tmp
+*.pid
